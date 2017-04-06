@@ -13,3 +13,7 @@
 
 @end
 
+@interface DataViewController : UIViewController
+-(void) readData;
+@end
+

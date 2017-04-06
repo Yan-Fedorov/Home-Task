@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Microsoft</string>
+		<key>creditRating</key>
+		<string>AAA</string>
+		<key>Default</key>
+		<false/>
+		<key>dateOfFoundation</key>
+		<date>1975-04-04T18:46:54Z</date>
+		<key>profit</key>
+		<real>10.2</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Apple</string>
+		<key>creditRating</key>
+		<string>AA</string>
+		<key>Default</key>
+		<false/>
+		<key>dateOfFoundation</key>
+		<date>1976-04-01T19:46:54Z</date>
+		<key>profit</key>
+		<real>45.687</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>IBM</string>
+		<key>creditRating</key>
+		<string>AAA</string>
+		<key>Default</key>
+		<false/>
+		<key>dateOfFoundation</key>
+		<date>1911-04-04T19:46:54Z</date>
+		<key>profit</key>
+		<integer>13</integer>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Oracle</string>
+		<key>creditRating</key>
+		<string>AAA</string>
+		<key>Default</key>
+		<false/>
+		<key>dateOfFoundation</key>
+		<date>1977-04-04T19:46:54Z</date>
+		<key>profit</key>
+		<integer>11</integer>
+	</dict>
+</array>
+</plist>
