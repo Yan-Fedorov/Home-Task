@@ -13,6 +13,6 @@
 @property(nonatomic,assign) NSDate* dateOfFoundation;
 @property(nonatomic,assign) NSNumber* profit;
 -(id) initWithDictionary: (NSDictionary*) dictionary;
--(NSString *) itemDescription;
+
 - (NSDateFormatter*)dateFormatter;
 @end

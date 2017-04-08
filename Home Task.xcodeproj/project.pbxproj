@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A15F70361E99819E00472307 /* DetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A15F70351E99819E00472307 /* DetailsViewController.m */; };
 		A1676D8A1E916B2600F09247 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A1676D891E916B2600F09247 /* main.m */; };
 		A1676D8D1E916B2600F09247 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A1676D8C1E916B2600F09247 /* AppDelegate.m */; };
 		A1676D901E916B2600F09247 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A1676D8F1E916B2600F09247 /* ViewController.m */; };
@@ -18,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A15F70351E99819E00472307 /* DetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailsViewController.m; sourceTree = "<group>"; };
+		A15F70371E9981B900472307 /* DetailsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailsViewController.h; sourceTree = "<group>"; };
 		A1676D851E916B2600F09247 /* Home Task.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Home Task.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1676D891E916B2600F09247 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A1676D8B1E916B2600F09247 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -97,6 +100,8 @@
 			children = (
 				A1676D8E1E916B2600F09247 /* ViewController.h */,
 				A1676D8F1E916B2600F09247 /* ViewController.m */,
+				A15F70351E99819E00472307 /* DetailsViewController.m */,
+				A15F70371E9981B900472307 /* DetailsViewController.h */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -193,6 +198,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1676DAA1E91834E00F09247 /* Corporations.m in Sources */,
+				A15F70361E99819E00472307 /* DetailsViewController.m in Sources */,
 				A1676D901E916B2600F09247 /* ViewController.m in Sources */,
 				A1676D8D1E916B2600F09247 /* AppDelegate.m in Sources */,
 				A1676D8A1E916B2600F09247 /* main.m in Sources */,

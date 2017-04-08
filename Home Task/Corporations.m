@@ -6,7 +6,7 @@
 //  Copyright © 2017 Ян. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+
 #import "Corporations.h"
 @interface Corporations()
 @end
@@ -18,7 +18,7 @@
     {
         _title = dictionary[@"@title"];
         _creditRating = dictionary[@"creditRating"];
-        _Default = [dictionary[@"Default"] boolValue];
+        _Default = [dictionary[@"Default"]boolValue] ;
         _dateOfFoundation = dictionary[@"dateOfFoundation"];
         _profit = dictionary[@"profit"];
     }
